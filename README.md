@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # 5) Edit src/index.css to add @import 'tailwindcss';
 # 6) Edit src/main.jsx to add import './index.css'
 # 7) npm run dev
+# npm install react-hot-toast nanoid
